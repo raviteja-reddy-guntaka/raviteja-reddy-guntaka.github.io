@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/raviteja-reddy-guntaka.github.io/static/css/main.c1ae3410.css",
+    "main.js": "/raviteja-reddy-guntaka.github.io/static/js/main.93274232.js",
+    "index.html": "/raviteja-reddy-guntaka.github.io/index.html",
+    "main.c1ae3410.css.map": "/raviteja-reddy-guntaka.github.io/static/css/main.c1ae3410.css.map",
+    "main.93274232.js.map": "/raviteja-reddy-guntaka.github.io/static/js/main.93274232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ae3410.css",
+    "static/js/main.93274232.js"
+  ]
+}

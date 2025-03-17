@@ -10,17 +10,21 @@ const Header: React.FC = () => {
         <h1>Raviteja Guntaka</h1>
         <h2>Software Engineer</h2>
         <p>
+        <strong>
           Hi, I am a Software Engineer experienced in building robust microservices and web applications, adept at integrating data from various sources and third-party APIs to streamline processes and enhance functionality. Proven ability to design and implement scalable REST webservices to meet business requirements. Passionate about leveraging technology to drive innovation and deliver exceptional user experiences.
+        </strong>
         </p>
         {/* <p>
           Proud winner of the 3rd prize in the ESRI Intern Hackathon 2023.
         </p> */}
-        <div className="experience-description">
+        <div className="profile-description">
+          <strong>
           <ul>
             <li>Proud winner of the 3rd prize in the ESRI Intern Hackathon 2023.</li>
             <li>Achieved AIR 1921 in IIT JEE 2013, ranking in the top 0.1 percentile out of 1.5 million candidates.</li>
             <li>Served as General Secretary, Kameng Hostel, Students Gymkhana Council, IIT Guwahati (2015-16).</li>
           </ul>
+          </strong>
         </div>
         <br></br>
         <div className="social-links">

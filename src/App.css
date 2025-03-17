@@ -73,6 +73,19 @@ body {
   max-width: 700px;
 }
 
+.profile-description {
+  color: #000;
+}
+
+.profile-description ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.profile-description li {
+  margin-bottom: 5px;
+}
+
 .social-links {
   display: flex;
   gap: 15px;
